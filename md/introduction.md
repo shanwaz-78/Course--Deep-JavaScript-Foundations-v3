@@ -31,4 +31,4 @@ console.log(num2) // 52
 
 ```
 ## For More Information Click Below:-
-[Introductions](../js/introduction/)
+[Introductions](../Js/introduction/)
