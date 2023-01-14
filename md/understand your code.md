@@ -20,4 +20,4 @@ console.log(x) // 6
 ```
 
 ## For More Information Click Below:-
-[Understand your code](../js/introduction/)
+[Understand your code](../Js/introduction/)
