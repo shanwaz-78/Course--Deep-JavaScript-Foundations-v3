@@ -6,10 +6,10 @@
 // String
 // Number
 // Boolean ----- Boolean values are not an object
-// Object
 // null 
 // BigInt
 // symbol
+// Infinity
 
 // this is non primitive types
 // object
