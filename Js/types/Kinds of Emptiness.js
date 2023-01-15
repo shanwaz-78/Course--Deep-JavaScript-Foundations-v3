@@ -1,4 +1,4 @@
-    // Undefined. // Undefined is absolutely equal to itself
+    // Undefined. // Undefined is absolutely equal to itself.
     // Undeclared.  
     
 //  Undefined Means There's definitely a variable and at the moment it has no value.

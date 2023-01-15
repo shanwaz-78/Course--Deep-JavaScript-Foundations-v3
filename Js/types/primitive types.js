@@ -35,3 +35,9 @@ console.log(typeof e); // object
 
 let f = Symbol();
 console.log(typeof f) // symbol
+
+let g = null;
+console.log(typeof g) // object
+
+let h = [1,2,3,4];
+console.log(typeof h) // object

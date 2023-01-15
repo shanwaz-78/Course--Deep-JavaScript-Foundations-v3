@@ -1,4 +1,4 @@
-// bigint
+// bigint is used to store big intizer.
 
 const a = 20;
 console.log(BigInt(a)) // 20n
