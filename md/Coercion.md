@@ -44,3 +44,6 @@ console.log(val);
 
 ## For More Information Click Below:-
 [Coercion](../Js/Coercion/)
+
+## For Philosophy of Coercion Click Below :-
+[Philosophy](../Js/Philosophy%20of%20Coercion/)
