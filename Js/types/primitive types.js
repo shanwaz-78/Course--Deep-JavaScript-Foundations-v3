@@ -15,6 +15,7 @@
 // object
 // Array
 // function
+// class
 
     // for example
 
