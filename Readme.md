@@ -2,4 +2,4 @@
 * ### [Types](./md/types.md)
 * ### [Coercion](./md/Coercion.md)
 * ### [Equality](./md/equality.md)
-* ### [Static Typing](./Js/Static%20Typing/)
+* ### [Scope](./md/Scope.md)
