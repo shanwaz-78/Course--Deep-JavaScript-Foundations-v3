@@ -1,5 +1,6 @@
 // '' Empty stirng become 0 first;
 // === Operator and toString tell lies to us in NaN and in -0
+// The data type of Null is object.
 
 const num = 1;
 const strNum = String(num); // '1'
