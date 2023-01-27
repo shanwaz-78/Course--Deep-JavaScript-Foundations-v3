@@ -37,7 +37,7 @@ fn()
 
 function fn4() { // whoever starts with the key word function it's called function declaration;
     // 'use strict';
-    a = 'saife'
+    a = 'Ibrahim'
     // fn3('Khan')
 }
 fn4()
