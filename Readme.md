@@ -3,3 +3,4 @@
 * ### [Coercion](./md/Coercion.md)
 * ### [Equality](./md/equality.md)
 * ### [Scope](./md/Scope.md)
+* ### [Sopes & Function Expressions](./md/Scopes%20and%20Function%20Expression.md)
