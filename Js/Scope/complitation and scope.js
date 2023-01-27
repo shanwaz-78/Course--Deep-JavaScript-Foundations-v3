@@ -7,12 +7,11 @@ var teacher = "Kyle"; // It's look like one statement but it's actually two sepr
 
 // variable only can play to roles first role target an assighnment and in this it's receiving an assignment.
 // and second role is in source position it's going up to it's value;
-// where we look for things.
 
-function otherclass(){  // creates new blue bucket.
+function otherclass(){  // Formel declaration, Also creates new red marbel.
     // var teacher = 
     console.log("welcome!" + " " + teacher)
-    // var teacher = "Suzy";
+    // var teacher = "Suzy"; that's the blue marbel because it's inside the function and the value is called blue bucket.
 }
 
 function ask(){ // creates new pink marbel.
