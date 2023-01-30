@@ -1,4 +1,4 @@
-// IIFE is has an expressionc. (IMMEDIATE INVOKED FUNCTION EXPRESSIION)
+// IIFE is an expression. (IMMEDIATE INVOKED FUNCTION EXPRESSIION), When we need Immediately a scope or function expression we can be used IIFE.
 
 (function () { // It's an function expression bcz he starting with the parenthesis not with function keyword.
     console.log('This is initial str');
