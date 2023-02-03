@@ -210,5 +210,5 @@ console.log(Rectangle.name);
 // output: "Rectangle2"
 ```
 
-## click the link below for objects,classes and new-keyword
-[objects refernces](../js/Object/)
+## For More Information Click Below:-
+[objects refernces](../Js/Object/)
