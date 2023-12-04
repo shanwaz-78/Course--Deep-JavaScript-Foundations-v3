@@ -1,7 +1,6 @@
 # Scopes.
 
 Scopes in javascript refers to the current context of code, which determines the accessibilty of variables to javascript.
-
 Javascript has the following kinds of scopes:-
 * Global Scope
 * Module Scope
